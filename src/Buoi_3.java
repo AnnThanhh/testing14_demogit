@@ -72,5 +72,7 @@ public class Buoi_3 {
         String str6 = "200";
         int so6 = Integer.parseInt(str6); //ép từ chuỗi sang số
         // cú pháp: Kiểu dữ liệu cần chuyển.parseKiểu dữ liệu cần chuyển(giá trị cần chuyển)
+
+        //đây là dòng code mới để test git
     }
 }
